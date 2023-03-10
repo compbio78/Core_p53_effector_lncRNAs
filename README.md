@@ -33,7 +33,7 @@ This page provides the following analysis sections used for the paper: **Decodin
 	
 	*: TCGA cancer type (e.g. 'blca')
 
-**Results (Output)**
+&emsp;**Results (Output)**
 
 	Figure 4B, Supplementary Tables S4-S8, source data for Figure 4a and supplementary Figures S3-S5. 
 
@@ -68,7 +68,7 @@ This page provides the following analysis sections used for the paper: **Decodin
 	
 	*: TCGA cancer type (e.g. 'blca')
 
-**Results (Output)**
+&emsp;**Results (Output)**
 		
 		a) CRISPR_RNAi/[CRISPR/RNAi]/*/[negative/positive]_regression/[negative/positive]_regression_res_gsea_*.csv - Gene Set Enrichment Analysis (GSEA) results show which lncRNAs potentially suppress (negative normalized enrichment score (NES)) or induce (positive NES) survival/growth of specific cancer celllines with statistical significance. 	
 		b) Figures 2C-2H and source data for Supplementary Tables 9-12.
@@ -91,7 +91,7 @@ This page provides the following analysis sections used for the paper: **Decodin
 	e) tcga_luad_favorable_genes.txt - List of genes whose elevated levels increase LUAD patient's overall survival.
 	f) tcga_luad_unfavorable_genes.txt - List of genes whose elevated levels reduce LUAD patient's overall survival.
 
-**Results (Output)**
+&emsp;**Results (Output)**
 	Differentially expressed genes in A549 LUAD cells overexpressing PTSL compared to controls, Figures 5C-E, source data for Figures 5B and 7D.
 
 
