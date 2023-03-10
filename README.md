@@ -92,6 +92,7 @@ This page provides the following analysis sections used for the paper: **Decodin
 	f) tcga_luad_unfavorable_genes.txt - List of genes whose elevated levels reduce LUAD patient's overall survival.
 
 &emsp;**Results (Output)**
+
 	Differentially expressed genes in A549 LUAD cells overexpressing PTSL compared to controls, Figures 5C-E, source data for Figures 5B and 7D.
 
 
