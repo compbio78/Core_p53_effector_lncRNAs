@@ -70,7 +70,7 @@ This page provides the following analysis sections used for the paper: **Decodin
 
 &emsp;**Results (Output)**
 		
-		a) CRISPR_RNAi/[CRISPR/RNAi]/*/[negative/positive]_regression/[negative/positive]_regression_res_gsea_*.csv - Gene Set Enrichment Analysis (GSEA) results show which lncRNAs potentially suppress (negative normalized enrichment score (NES)) or induce (positive NES) survival/growth of specific cancer celllines with statistical significance. 	
+		a) CRISPR_RNAi/[CRISPR/RNAi]/*/[negative/positive]_regression/[negative/positive]_regression_res_gsea_*.csv - Gene Set Enrichment Analysis (GSEA) results show which lncRNAs potentially suppress (negative normalized enrichment score (NES)) or induce (positive NES) survival/growth of specific cancer cell lines with statistical significance. 	
 		b) Figures 2C-2H and source data for Supplementary Tables 9-12.
 		
 	*: TCGA cancer type (e.g. 'blca')
